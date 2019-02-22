@@ -58,3 +58,22 @@
   message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
   stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
   stdout: [32m''[39m }
+2019-02-22T20:40:01.716Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:40:01.717Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:45:02.459Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:45:02.460Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:50:00.400Z - [31merror[39m: [AGENT] Unable to fetch from git origin!
+2019-02-22T20:50:00.400Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:50:00.400Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m1[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo pull origin master` failed with code 1'[39m,
+  stderr: [32m'fatal: unable to access \'https://github.com/kobuta23/global-law-repository/\': Could not resolve host: github.com\n'[39m,
+  stdout: [32m''[39m }
