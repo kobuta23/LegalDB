@@ -1,0 +1,60 @@
+2019-02-22T19:50:03.048Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T19:50:03.049Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T19:55:02.104Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T19:55:02.104Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:00:02.276Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:00:02.277Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:05:03.327Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:05:03.328Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:10:04.302Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:10:04.303Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:15:02.217Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:15:02.218Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:20:02.217Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:20:02.218Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:25:02.517Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:25:02.519Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:30:06.291Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:30:06.292Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
+2019-02-22T20:35:02.488Z - [31merror[39m: [AGENT] Unable to push changes to remote Git repository!
+2019-02-22T20:35:02.488Z - [31merror[39m: [AGENT] One or more jobs have failed:  
+{ code: [33m128[39m,
+  message: [32m'`git --git-dir=repo/.git --work-tree=repo push origin master` failed with code 128'[39m,
+  stderr: [32m'fatal: could not read Username for \'https://github.com\': No such device or address\n'[39m,
+  stdout: [32m''[39m }
